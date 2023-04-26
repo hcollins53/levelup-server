@@ -1,0 +1,20 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "name": "Caves and Chimeras",
+            "game_type": 2,
+            "creator": 1
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "name": "Monopoly",
+            "game_type": 1,
+            "creator": 1
+        } 
+    }
+]

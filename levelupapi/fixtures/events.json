@@ -1,0 +1,22 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "name": "Board game",
+            "organizer": 1,
+            "game": 2,
+            "attendees": [2,3]
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 2,
+        "fields": {
+            "name": "Role Playing",
+            "organizer": 1,
+            "game": 1,
+            "attendees": [2,3]
+        }
+    }
+]
